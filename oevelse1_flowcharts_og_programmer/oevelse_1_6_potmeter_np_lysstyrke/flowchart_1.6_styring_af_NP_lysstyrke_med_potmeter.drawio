@@ -1,0 +1,125 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0" version="24.7.17">
+  <diagram name="Side-1" id="bUHjc2kgiJbWq32oCTN7">
+    <mxGraphModel dx="971" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jnQbZlNVxzC4lUx6YGiv-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jnQbZlNVxzC4lUx6YGiv-1" target="jnQbZlNVxzC4lUx6YGiv-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jnQbZlNVxzC4lUx6YGiv-1" value="START" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="140" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jnQbZlNVxzC4lUx6YGiv-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jnQbZlNVxzC4lUx6YGiv-2" target="jnQbZlNVxzC4lUx6YGiv-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jnQbZlNVxzC4lUx6YGiv-2" value="&lt;div&gt;Importer: &lt;br&gt;&lt;/div&gt;&lt;div&gt;ADC&lt;/div&gt;&lt;div&gt;Pin&lt;/div&gt;&lt;div&gt;neopixel&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="180" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jnQbZlNVxzC4lUx6YGiv-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jnQbZlNVxzC4lUx6YGiv-5" target="jnQbZlNVxzC4lUx6YGiv-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jnQbZlNVxzC4lUx6YGiv-5" value="&lt;div&gt;lav ADC instans&lt;/div&gt;&lt;div&gt;lav neopixel instans&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jnQbZlNVxzC4lUx6YGiv-9" value="JA" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jnQbZlNVxzC4lUx6YGiv-6" target="jnQbZlNVxzC4lUx6YGiv-8">
+          <mxGeometry x="-0.5" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="85" y="420" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jnQbZlNVxzC4lUx6YGiv-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jnQbZlNVxzC4lUx6YGiv-6" target="jnQbZlNVxzC4lUx6YGiv-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jnQbZlNVxzC4lUx6YGiv-12" value="NEJ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jnQbZlNVxzC4lUx6YGiv-11">
+          <mxGeometry x="-0.1467" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jnQbZlNVxzC4lUx6YGiv-6" value="Kører uendelig løkke? " style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="145" y="370" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jnQbZlNVxzC4lUx6YGiv-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jnQbZlNVxzC4lUx6YGiv-8" target="jnQbZlNVxzC4lUx6YGiv-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jnQbZlNVxzC4lUx6YGiv-8" value="Aflæs potmeter" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="25" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jnQbZlNVxzC4lUx6YGiv-10" value="STOP" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="250" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jnQbZlNVxzC4lUx6YGiv-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jnQbZlNVxzC4lUx6YGiv-13" target="jnQbZlNVxzC4lUx6YGiv-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jnQbZlNVxzC4lUx6YGiv-13" value="&lt;div&gt;Gem ADC måling&lt;/div&gt;&lt;div&gt;i variabel til ny måling &lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="25" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jnQbZlNVxzC4lUx6YGiv-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jnQbZlNVxzC4lUx6YGiv-17" target="jnQbZlNVxzC4lUx6YGiv-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jnQbZlNVxzC4lUx6YGiv-17" value="&lt;div&gt;Konverter ADC værdi til gyldig lysstyrke værdi&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="25" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jnQbZlNVxzC4lUx6YGiv-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="jnQbZlNVxzC4lUx6YGiv-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jnQbZlNVxzC4lUx6YGiv-23" value="B" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jnQbZlNVxzC4lUx6YGiv-25" value="A" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="45" y="710" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jnQbZlNVxzC4lUx6YGiv-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jnQbZlNVxzC4lUx6YGiv-31" target="jnQbZlNVxzC4lUx6YGiv-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jnQbZlNVxzC4lUx6YGiv-31" value="&lt;div&gt;Sæt lysstyrke på neopixel&lt;/div&gt;&lt;div&gt;koverteret værdi&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jnQbZlNVxzC4lUx6YGiv-32" value="B" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="530" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jnQbZlNVxzC4lUx6YGiv-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="jnQbZlNVxzC4lUx6YGiv-33" target="jnQbZlNVxzC4lUx6YGiv-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jnQbZlNVxzC4lUx6YGiv-39" value="JA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jnQbZlNVxzC4lUx6YGiv-38">
+          <mxGeometry x="0.1451" y="3" relative="1" as="geometry">
+            <mxPoint x="-3" y="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jnQbZlNVxzC4lUx6YGiv-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jnQbZlNVxzC4lUx6YGiv-33" target="jnQbZlNVxzC4lUx6YGiv-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jnQbZlNVxzC4lUx6YGiv-44" value="NEJ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jnQbZlNVxzC4lUx6YGiv-43">
+          <mxGeometry x="-0.0271" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jnQbZlNVxzC4lUx6YGiv-33" value="&lt;div&gt;Er ny måling&lt;/div&gt;&lt;div&gt;samme som gammel måling?&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="200" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jnQbZlNVxzC4lUx6YGiv-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jnQbZlNVxzC4lUx6YGiv-34" target="jnQbZlNVxzC4lUx6YGiv-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jnQbZlNVxzC4lUx6YGiv-34" value="A" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="90" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jnQbZlNVxzC4lUx6YGiv-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jnQbZlNVxzC4lUx6YGiv-45" target="jnQbZlNVxzC4lUx6YGiv-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jnQbZlNVxzC4lUx6YGiv-45" value="&lt;div&gt;Gem ADC måling&lt;/div&gt;&lt;div&gt;i variabel til gammel måling &lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

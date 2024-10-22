@@ -1,0 +1,29 @@
+steps for at lave en toast:
+
+1. hent brød
+2. hent ost
+3. hent kantareller (De er stegte i forvejen)
+4. hent smør
+
+5. læg en skive brød på bordet (med største overflade mod bordet)
+6. læg en skive ost på brødet (med største overflade mod brødet)
+7. læg kantareller oven på osten (fordelt i midten)
+8. læg en skive brød mere oven på kantarellerne (med største overflade mod kantarellerne)
+
+9. hent en kniv
+10. put smør på kniven (Modsatte ende af håndtaget)
+11. smør det på den øverste brødskive på siden der vender op af
+12. vend toasten 180 grader på x-aksen 
+13. put smør på kniven (Modsatte ende af håndtaget)
+14. smør det på den øverste brødskive på siden der vender op af
+
+15. hent toaster
+16. sæt toasters stik i stikkontakt og tænd toaster
+17. Hvis toasteren er varm så gå til step 19, ellers så gå til step 18
+18. vent 30 sekunder og gå til step 17
+19. læg toasten i toasteren
+20. hvis toasten er gylden og sprød gå til step 22, ellers gå til step 21
+21. vent 30 sekunder og gå til step 20
+22. hent tallerken
+23. tag toasten ud af toaster og læg den på din tallerken
+22. sluk toasteren

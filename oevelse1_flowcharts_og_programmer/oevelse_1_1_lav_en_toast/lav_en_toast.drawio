@@ -1,0 +1,216 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0" version="24.7.17">
+  <diagram name="Side-1" id="SSE76WOGkAGjf-zWOz9X">
+    <mxGraphModel dx="1844" dy="994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fC9aXzVR1D02H2SN2eSI-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Lav en toast&lt;br&gt;&lt;/h1&gt;&lt;p&gt;flowchartet beskriver trin for at lave en toast.&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fC9aXzVR1D02H2SN2eSI-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fC9aXzVR1D02H2SN2eSI-4" target="fC9aXzVR1D02H2SN2eSI-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fC9aXzVR1D02H2SN2eSI-4" value="START" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="120" y="170" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fC9aXzVR1D02H2SN2eSI-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fC9aXzVR1D02H2SN2eSI-7" target="fC9aXzVR1D02H2SN2eSI-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fC9aXzVR1D02H2SN2eSI-7" value="&lt;div&gt;hent&lt;/div&gt;&lt;div&gt;brød&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="110" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fC9aXzVR1D02H2SN2eSI-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fC9aXzVR1D02H2SN2eSI-9" target="fC9aXzVR1D02H2SN2eSI-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fC9aXzVR1D02H2SN2eSI-9" value="&lt;div&gt;hent&amp;nbsp;&lt;/div&gt;&lt;div&gt;ost&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="110" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fC9aXzVR1D02H2SN2eSI-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fC9aXzVR1D02H2SN2eSI-11" target="fC9aXzVR1D02H2SN2eSI-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fC9aXzVR1D02H2SN2eSI-11" value="&lt;div&gt;hent stegte&lt;/div&gt;&lt;div&gt;kantareller&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="110" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fC9aXzVR1D02H2SN2eSI-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fC9aXzVR1D02H2SN2eSI-13" target="fC9aXzVR1D02H2SN2eSI-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fC9aXzVR1D02H2SN2eSI-13" value="&lt;div&gt;hent &lt;br&gt;&lt;/div&gt;&lt;div&gt;smør&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="110" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fC9aXzVR1D02H2SN2eSI-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fC9aXzVR1D02H2SN2eSI-15" target="fC9aXzVR1D02H2SN2eSI-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fC9aXzVR1D02H2SN2eSI-15" value="læg en skive brød på bordet (med største overflade mod bordet)" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="110" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fC9aXzVR1D02H2SN2eSI-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fC9aXzVR1D02H2SN2eSI-17" target="fC9aXzVR1D02H2SN2eSI-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fC9aXzVR1D02H2SN2eSI-17" value="læg en skive ost på brødet (med største overflade mod brødet)" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="110" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fC9aXzVR1D02H2SN2eSI-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fC9aXzVR1D02H2SN2eSI-19" target="fC9aXzVR1D02H2SN2eSI-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fC9aXzVR1D02H2SN2eSI-19" value="læg kantareller oven på osten (fordelt i midten)" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="110" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fC9aXzVR1D02H2SN2eSI-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fC9aXzVR1D02H2SN2eSI-21" target="fC9aXzVR1D02H2SN2eSI-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fC9aXzVR1D02H2SN2eSI-21" value="læg en skive brød mere oven på kantarellerne (med største overflade mod kantarellerne)" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="110" y="820" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fC9aXzVR1D02H2SN2eSI-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fC9aXzVR1D02H2SN2eSI-25" target="fC9aXzVR1D02H2SN2eSI-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fC9aXzVR1D02H2SN2eSI-25" value="hent en kniv" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="110" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fC9aXzVR1D02H2SN2eSI-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="fC9aXzVR1D02H2SN2eSI-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="1050" as="sourcePoint" />
+            <mxPoint x="280" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="1050" />
+              <mxPoint x="250" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fC9aXzVR1D02H2SN2eSI-27" value="put smør på kniven (Modsatte ende af håndtaget)" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fC9aXzVR1D02H2SN2eSI-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fC9aXzVR1D02H2SN2eSI-29" target="fC9aXzVR1D02H2SN2eSI-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fC9aXzVR1D02H2SN2eSI-29" value="smør det på den øverste brødskive på siden der vender op af" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="400" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fC9aXzVR1D02H2SN2eSI-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fC9aXzVR1D02H2SN2eSI-31" target="fC9aXzVR1D02H2SN2eSI-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fC9aXzVR1D02H2SN2eSI-31" value="vend toasten 180 grader på x-aksen " style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="400" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fC9aXzVR1D02H2SN2eSI-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fC9aXzVR1D02H2SN2eSI-33" target="fC9aXzVR1D02H2SN2eSI-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fC9aXzVR1D02H2SN2eSI-33" value="put smør på kniven (Modsatte ende af håndtaget)" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="400" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fC9aXzVR1D02H2SN2eSI-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fC9aXzVR1D02H2SN2eSI-36" target="fC9aXzVR1D02H2SN2eSI-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fC9aXzVR1D02H2SN2eSI-36" value="smør det på den øverste brødskive på siden der vender op af" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="400" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fC9aXzVR1D02H2SN2eSI-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fC9aXzVR1D02H2SN2eSI-38" target="fC9aXzVR1D02H2SN2eSI-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fC9aXzVR1D02H2SN2eSI-38" value="hent toaster" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="400" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fC9aXzVR1D02H2SN2eSI-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fC9aXzVR1D02H2SN2eSI-40" target="fC9aXzVR1D02H2SN2eSI-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fC9aXzVR1D02H2SN2eSI-40" value="sæt toasters stik i stikkontakt og tænd toaster" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="400" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fC9aXzVR1D02H2SN2eSI-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fC9aXzVR1D02H2SN2eSI-42" target="fC9aXzVR1D02H2SN2eSI-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fC9aXzVR1D02H2SN2eSI-49" value="JA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fC9aXzVR1D02H2SN2eSI-48">
+          <mxGeometry x="-0.2933" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fC9aXzVR1D02H2SN2eSI-42" value="&lt;div&gt;Er toaster &lt;br&gt;&lt;/div&gt;&lt;div&gt;varm?&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="420" y="750" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fC9aXzVR1D02H2SN2eSI-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fC9aXzVR1D02H2SN2eSI-47" target="fC9aXzVR1D02H2SN2eSI-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fC9aXzVR1D02H2SN2eSI-47" value="læg toasten i toasteren" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="510" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fC9aXzVR1D02H2SN2eSI-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="fC9aXzVR1D02H2SN2eSI-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="730" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="340" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fC9aXzVR1D02H2SN2eSI-51" value="&lt;div&gt;Vent 30&lt;/div&gt;&lt;div&gt;sekunder&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="270" y="760" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fC9aXzVR1D02H2SN2eSI-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fC9aXzVR1D02H2SN2eSI-42" target="fC9aXzVR1D02H2SN2eSI-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fC9aXzVR1D02H2SN2eSI-54" value="NEJ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fC9aXzVR1D02H2SN2eSI-52">
+          <mxGeometry x="-0.0387" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fC9aXzVR1D02H2SN2eSI-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fC9aXzVR1D02H2SN2eSI-55" target="fC9aXzVR1D02H2SN2eSI-61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="970" />
+              <mxPoint x="650" y="620" />
+              <mxPoint x="600" y="620" />
+              <mxPoint x="600" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fC9aXzVR1D02H2SN2eSI-63" value="JA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fC9aXzVR1D02H2SN2eSI-62">
+          <mxGeometry x="-0.11" y="4" relative="1" as="geometry">
+            <mxPoint x="14" y="316" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fC9aXzVR1D02H2SN2eSI-55" value="&lt;div&gt;Er toasten&lt;/div&gt;&lt;div&gt;gylden&lt;/div&gt;&lt;div&gt;&amp;nbsp;og sprød?&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="500" y="930" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fC9aXzVR1D02H2SN2eSI-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="fC9aXzVR1D02H2SN2eSI-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="910" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fC9aXzVR1D02H2SN2eSI-57" value="&lt;div&gt;Vent 30&lt;/div&gt;&lt;div&gt;sekunder&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="330" y="940" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fC9aXzVR1D02H2SN2eSI-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fC9aXzVR1D02H2SN2eSI-55" target="fC9aXzVR1D02H2SN2eSI-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fC9aXzVR1D02H2SN2eSI-59" value="NEJ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fC9aXzVR1D02H2SN2eSI-58">
+          <mxGeometry x="-0.222" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fC9aXzVR1D02H2SN2eSI-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fC9aXzVR1D02H2SN2eSI-61" target="fC9aXzVR1D02H2SN2eSI-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fC9aXzVR1D02H2SN2eSI-61" value="hent tallerken" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="680" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fC9aXzVR1D02H2SN2eSI-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fC9aXzVR1D02H2SN2eSI-64" target="fC9aXzVR1D02H2SN2eSI-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fC9aXzVR1D02H2SN2eSI-64" value="&lt;div&gt;tag toasten ud af toaster og&lt;/div&gt;&lt;div&gt;&amp;nbsp;læg den på din tallerken&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="675" y="340" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fC9aXzVR1D02H2SN2eSI-66" value="sluk toasteren" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="680" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fC9aXzVR1D02H2SN2eSI-68" value="STOP" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="690" y="540" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fC9aXzVR1D02H2SN2eSI-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fC9aXzVR1D02H2SN2eSI-66" target="fC9aXzVR1D02H2SN2eSI-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
